@@ -60,11 +60,11 @@ You can open and run the file on Git Bash as per the screenshot.
 
 Open the command line Git Bash and run the following command, pointing to the folder which contains your script.js file
 
-`chris@Sadi MINGW64 ~/project-directory node script.js`
+`user@name MINGW64 ~/project-directory node script.js`
 
 As per the screenshot the terminal will printout something like this:
 
-`chris@Sadi MINGW64 ~/project-directory`
+`user@name MINGW64 ~/project-directory`
 `$ node javascript.js`
 `Here are this weeks focus:`
 
