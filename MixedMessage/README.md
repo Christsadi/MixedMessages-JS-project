@@ -54,27 +54,25 @@ You can open and run the file on Git Bash as per the screenshot.
 
 ## Usage
 
-How does one go about using it?
-Provide various use cases and code examples here.
-
-### To open and run the script:
+### To open and run the script
 
 #### Step 1
 
 Open the command line Git Bash run the following command pointing to the folder which contains your script.
 
 `chris@Sadi MINGW64 ~/project-directory node script.js`
-As per the screenshot the terminal will printout something like this:
-`chris@Sadi MINGW64 ~/project-directory
-$ node javascript.js
-Here are this weeks focus:
 
-Friendship is very important, so for this week, We give some space and let focus on our environment,
-how to better nurture your well-being.
-If you have a significant one, set aside time for you & your partner.
-If you do not have a partner it okay, skip this one.
-Blood is thicker than water, stay open & trust those close to you.
-`
+As per the screenshot the terminal will printout something like this:
+
+`chris@Sadi MINGW64 ~/project-directory`
+`$ node javascript.js`
+`Here are this weeks focus:`
+
+`Friendship is very important, so for this week, We give some space and let focus on our environment,`
+`how to better nurture your well-being.`
+`If you have a significant one, set aside time for you & your partner.`
+`If you do not have a partner it okay, skip this one.`
+`Blood is thicker than water, stay open & trust those close to you.`
 
 ## Project Status
 
