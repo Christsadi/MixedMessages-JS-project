@@ -66,7 +66,7 @@ As per the screenshot the terminal will printout something like this:
 
 `user@name MINGW64 ~/project-directory`
 
-`$ node javascript.js`
+`$ node script.js`
 
 `Here are this weeks focus:`
 
