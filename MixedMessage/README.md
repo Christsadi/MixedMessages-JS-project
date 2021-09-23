@@ -65,7 +65,9 @@ Open the command line Git Bash and run the following command, pointing to the fo
 As per the screenshot the terminal will printout something like this:
 
 `user@name MINGW64 ~/project-directory`
+
 `$ node javascript.js`
+
 `Here are this weeks focus:`
 
 `Friendship is very important, so for this week, We give some space and let focus on our environment,`
