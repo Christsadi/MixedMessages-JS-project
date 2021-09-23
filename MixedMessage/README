@@ -38,3 +38,14 @@
 - Family advice
 
 ## Screenshots
+
+## Setup
+
+You need to have the following installed on your computer:
+
+- Git Bash
+- VSCode
+- Nodes.js
+
+The code is written in basic javascript syntax on a file called mains.js which you will find on this repository.
+You can open and run the file on VSCode as per the screenshot or open and run the file on Git Bash as per screenshot.
