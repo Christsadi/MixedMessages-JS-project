@@ -58,7 +58,7 @@ You can open and run the file on Git Bash as per the screenshot.
 
 #### Step 1
 
-Open the command line Git Bash run the following command pointing to the folder which contains your script.
+Open the command line Git Bash and run the following command, pointing to the folder which contains your script.js file
 
 `chris@Sadi MINGW64 ~/project-directory node script.js`
 
