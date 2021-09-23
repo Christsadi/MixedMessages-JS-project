@@ -1,6 +1,6 @@
-# Mixed Messages - Happy Soul app
+# Mixed Messages - Happy Soul App
 
-> A nodes.js console app that generates random advices to follow for the week.
+A nodes.js console app that generates random advices to follow for the week.
 
 ## Table of Contents
 
