@@ -1,37 +1,72 @@
-## Welcome to GitHub Pages
+## Welcome To My Page
 
-You can use the [editor on GitHub](https://github.com/Christsadi/Portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### I am Christ Sadi
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- Currently doing a Full Stack engineering Course. 
+- A self-employed cultural tour guide in the Western Cape, South Africa. 
+- Fluent in english and french. 
+- I enjoy alot of hobbies and always looking to learn something new.
 
-### Markdown
+#### My experiences are in:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Prestashop open source e-commerce platform
+- SEO
+- Adobe Photoshop & Illustrator
+- Photography 
+- Fitness Professional
+- Customer service
+- Provincial cultural tour guide
 
-```markdown
-Syntax highlighted code block
+### GitHub Portfolio
 
-# Header 1
-## Header 2
-### Header 3
+- Currently under construction as I progress through my course, but you can have a look at the following [Work](https://github.com/Christsadi/Portfolio)
 
-- Bulleted
-- List
+### Work Experience
 
-1. Numbered
-2. List
+#### SADICAPETOURS
 
-**Bold** and _Italic_ and `Code` text
+- Offered & managed all services on OTAs (Online Travel Agents) 
+- Services composed of tours, transfers within the Western Cape, Gqeberha and Environs
 
-[Link](url) and ![Image](src)
-```
+- instagram [@sadicapetours](https://www.instagram.com/sadicapetours/?hl=en)
+- [facebook](https://www.facebook.com/sadicaptours/)
+- [tripadvisor](https://www.tripadvisor.co.za/Attraction_Review-g312659-d11914490-Reviews-SadiCapeTours-Cape_Town_Central_Western_Cape.html)
+- [Expedia](https://www.expedia.co.id/en/things-to-do/paarl-spice-route-private-tour.a1160188.activity-details?endDate=2021-10-16&location=Cape%20Town%20City%20Centre%2C%20Cape%20Town%2C%20Western%20Cape%2C%20South%20Africa&rid=6197560&startDate=2021-10-02)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+#### THEDREAMHAIR (as a Freelancer)
 
-### Jekyll Themes
+- SEO Analyst
+- Web support
+- Content creator
+- Brand developement
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Christsadi/Portfolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- [www.thedreamhair.com](thedreamhair.com)
+- instragram [@thedreamhairstore](https://www.instagram.com/)
+- [facebook](https://www.facebook.com/TheDreamHair)
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+#### HSBC 7's RUGBY SERIES CAPE TOWN LIAISON OFFICER FOR FRANCE NATIONAL RUGBY 7'S TEAM
+
+- Planned and organised itinerary with team management
+- Coordinate, planned for training facilities and other team requirements
+
+#### VIRGIN ACTIVE CONSTANTIA
+
+- Mananging group excercise instructors
+- Planning, and implementation of a variety of fitness classes across multiple studios
+- Teaching and organising group excercise events
+
+#### OTHER
+
+- Assistant coach to Varsity College ladies soccer team
+- Bergvliet High School Basketball Head coach
+- Freelancer @ INSOlVO
+
+### GET IN TOUCH
+
+I'm open to discuss ideas and professional opportunities. Drop me a message or send me a direct email christsadi@gmail.com
+
+#### SOCIAL MEDIA HANDLE
+
+- Instagram [@christ_maximus](https://www.instagram.com/)
+- Twitter [@MaximusChrist](https://twitter.com/MaximusChrist)
