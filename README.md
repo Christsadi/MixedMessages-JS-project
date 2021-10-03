@@ -1,10 +1,10 @@
-# Portfolio and Course Projects
+# Portfolio Full Stack Engineer Projects
 
 ## General Information
 
 Hi there,
 
-Here you will find folders containing projects from my course and personal projects.
+Here you will find folders containing projects from my course
 
 ## Contact
 
