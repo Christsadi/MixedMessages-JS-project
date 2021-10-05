@@ -4,21 +4,22 @@ body {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-h2 {
-  color: white;
-  font-size: 42px;
-  font-weight: 300;
-}
-
-.header {
+.headerMain {
   color: white;
   font-size: 50px;
   font-weight: normal;
 }
 
-p {
+.headerSecond {
+  color: white;
+  font-size: 42px;
+  font-weight: 300;
+}
+
+.sub {
   color: grey;
   font-size: 21px;
+  font-weight: lighter;
 }
 
 .link {
