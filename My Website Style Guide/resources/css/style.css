@@ -1,0 +1,20 @@
+body {
+  font-family: "Open Sans Condensed", sans-serif;
+  background-color: rgb(175, 207, 255);
+}
+
+#header {
+  text-align: center;
+}
+
+.div {
+  background-color: rgb(255, 255, 255);
+  padding: 10px;
+  margin: 10px auto;
+}
+
+.font {
+  font-family: "Open Sans Condensed", sans-serif;
+  font-family: "Quicksand", sans-serif;
+  font-family: "Titillium Web", sans-serif;
+}
