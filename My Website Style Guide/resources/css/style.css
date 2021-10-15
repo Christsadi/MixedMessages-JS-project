@@ -18,6 +18,10 @@ body {
   text-align: center;
 }
 
+#pBold {
+  font-weight: 700;
+}
+
 .div {
   padding: 10px;
   margin: 10px auto;
@@ -96,4 +100,21 @@ body {
 
 .fontBold {
   font-weight: 700;
+}
+
+h1 {
+  font-weight: 700;
+  font-size: 30px;
+  font-family: "Open Sans Condensed", sans-serif;
+}
+
+h2 {
+  font-weight: 700;
+  font-size: 18px;
+  font-family: "Quicksand", sans-serif;
+}
+
+p {
+  font-size: 14px;
+  font-family: "Quicksand", sans-serif;
 }
