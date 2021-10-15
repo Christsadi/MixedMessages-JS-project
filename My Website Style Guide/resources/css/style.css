@@ -24,12 +24,19 @@ h2 {
   background-color: rgb(250, 208, 221);
 }
 
-.colorBox {
+.colorDiv {
   background-color: rgb(208, 250, 208);
+  margin: 10px auto;
+  padding: 10px;
+}
+
+.colorBox {
   margin: 10px auto;
   min-height: 100px;
   text-align: center;
-  padding: 10px;
+  font-weight: bold;
+  display: inline-block;
+  width: 18%;
 }
 
 .colorBlue {
