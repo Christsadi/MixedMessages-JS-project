@@ -14,7 +14,7 @@ body {
   text-align: center;
 }
 
-h2 {
+#h2center {
   text-align: center;
 }
 
@@ -24,7 +24,7 @@ h2 {
   background-color: rgb(250, 208, 221);
 }
 
-.colorDiv {
+.backgroundDiv {
   background-color: rgb(208, 250, 208);
   margin: 10px auto;
   padding: 10px;
@@ -71,4 +71,14 @@ h2 {
   background-color: rgb(255, 255, 255);
   padding: 5px;
   color: white;
+}
+
+.fontBox {
+  background-color: rgb(255, 255, 255);
+  padding: 5px;
+  display: inline-block;
+}
+
+.OpenSansCondensed {
+  font-family: "Open Sans Condensed", sans-serif;
 }
