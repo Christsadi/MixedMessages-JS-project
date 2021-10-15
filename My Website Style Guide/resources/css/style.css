@@ -73,12 +73,27 @@ body {
   color: white;
 }
 
-.fontBox {
-  background-color: rgb(255, 255, 255);
-  padding: 5px;
+.textBackground {
+  padding: 5px 10px;
   display: inline-block;
 }
 
 .OpenSansCondensed {
   font-family: "Open Sans Condensed", sans-serif;
+}
+
+.quicksand {
+  font-family: "Quicksand", sans-serif;
+}
+
+.titilliumWeb {
+  font-family: "Titillium Web", sans-serif;
+}
+
+.fontItalic {
+  font-style: italic;
+}
+
+.fontBold {
+  font-weight: 700;
 }
