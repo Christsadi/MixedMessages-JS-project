@@ -1,14 +1,14 @@
 html {
   font-size: 22px;
   font-family: Helvetica, Arial, sans-serif;
-  color: seashell;
-  background-color: black;
-  opacity: 0.9;
-  text-align: center;
-  vertical-align: middle;
 }
 
 body {
+  background-color: seashell;
+  color: rgb(55, 0, 255);
+  opacity: 0.9;
+  text-align: center;
+  vertical-align: middle;
 }
 
 h2 {
@@ -20,5 +20,21 @@ h4 {
 h5 {
 }
 
+a {
+  text-decoration: underline;
+}
+
 p {
+}
+
+.header {
+  border-bottom: seashell;
+  position: fixed;
+  height: 69px;
+  display: inline-block;
+}
+
+.header li {
+  display: inline-block;
+  padding: 10px;
 }
