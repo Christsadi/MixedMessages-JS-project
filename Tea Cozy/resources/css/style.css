@@ -1,16 +1,15 @@
 /* Universal Styles */
 
-html {
+html,
+body {
   font-size: 22px;
   font-family: Helvetica, Arial, sans-serif;
-}
-
-body {
   background-color: black;
   color: seashell;
   opacity: 0.9;
   text-align: center;
   margin: 0 auto;
+  overflow: hidden;
 }
 
 h2 {
@@ -33,6 +32,8 @@ p {
   min-height: 69px;
   top: 0;
   width: 100%;
+  background-color: black;
+  margin: 0 auto;
 }
 
 .logo {
@@ -61,5 +62,12 @@ p {
 
 .mission {
   max-width: 1200px;
-  max-height: 700px;
+  height: 700px;
+  text-align: center;
+  margin: 69px auto 40px auto;
+  display: flex;
+}
+
+.mission img {
+  margin: 0px auto;
 }
