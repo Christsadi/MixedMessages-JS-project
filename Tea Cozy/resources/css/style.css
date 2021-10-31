@@ -26,7 +26,7 @@ p {
 .header {
   border-bottom: 1px seashell solid;
   position: fixed;
-  height: 69px;
+  min-height: 69px;
   top: 0;
   width: 100%;
 }
