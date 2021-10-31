@@ -1,3 +1,5 @@
+/* Universal Styles */
+
 html {
   font-size: 22px;
   font-family: Helvetica, Arial, sans-serif;
@@ -8,7 +10,7 @@ body {
   color: seashell;
   opacity: 0.9;
   text-align: center;
-  margin: 0;
+  margin: 0 auto;
 }
 
 h2 {
@@ -23,6 +25,8 @@ h5 {
 p {
 }
 
+/* Header Section */
+
 .header {
   border-bottom: 1px seashell solid;
   position: fixed;
@@ -35,7 +39,7 @@ p {
   height: 50px;
   float: left;
   padding-left: 10px;
-  margin: 9px auto;
+  margin: 10px auto;
 }
 
 .nav {
@@ -51,4 +55,11 @@ p {
 .nav li {
   display: inline-block;
   padding-left: 20px;
+}
+
+/* Banner Section */
+
+.mission {
+  max-width: 1200px;
+  max-height: 700px;
 }
