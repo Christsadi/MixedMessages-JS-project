@@ -9,7 +9,6 @@ body {
   opacity: 0.9;
   text-align: center;
   margin: 0 auto;
-  overflow: hidden;
 }
 
 h2 {
@@ -64,8 +63,9 @@ p {
   max-width: 1200px;
   height: 700px;
   text-align: center;
-  margin: 69px auto 40px auto;
+  margin: 69px auto;
   display: flex;
+  overflow: hidden;
 }
 
 .mission img {
