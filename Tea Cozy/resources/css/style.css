@@ -57,7 +57,7 @@ p {
   padding-left: 20px;
 }
 
-/* Banner Section */
+/* Mission Section */
 
 .mission {
   max-width: 1200px;
@@ -78,4 +78,8 @@ p {
   width: 100%;
   height: auto;
   margin: auto;
+}
+
+/* Tea Section */
+.tea {
 }
