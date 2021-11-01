@@ -64,10 +64,11 @@ p {
   height: 700px;
   text-align: center;
   margin: 69px auto;
+  background-image: url("../../assets/images/mission.webp");
+  background-position: top;
+  background-size: cover;
+  background-repeat: no-repeat;
   display: flex;
-  overflow: hidden;
-}
-
-.mission img {
-  margin: 0px auto;
+  justify-content: center;
+  align-items: center;
 }
