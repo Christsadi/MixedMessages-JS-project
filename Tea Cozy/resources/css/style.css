@@ -60,7 +60,7 @@ p {
 /* Mission Section */
 
 .mission {
-  max-width: 1200px;
+  width: 1200px;
   height: 700px;
   text-align: center;
   margin: 69px auto;
@@ -76,10 +76,27 @@ p {
 .mission-quote {
   background-color: black;
   width: 100%;
-  height: auto;
-  margin: auto;
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#mission-header2 {
+  text-align: center;
 }
 
 /* Tea Section */
 .tea {
+  max-width: 1000px;
+  display: inline-flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.container img {
+  width: 300px;
+  height: 200px;
+  padding: 10px 10px;
 }
