@@ -11,18 +11,6 @@ body {
   margin: 0 auto;
 }
 
-h2 {
-}
-
-h4 {
-}
-
-h5 {
-}
-
-p {
-}
-
 /* Header Section */
 
 .header {
@@ -82,6 +70,7 @@ p {
 }
 
 /* Tea Section */
+
 .tea {
   max-width: 1000px;
   display: inline-flex;
@@ -107,27 +96,40 @@ p {
   background-position: top;
   background-size: cover;
   background-repeat: no-repeat;
+}
+
+#location-h2 {
+  padding-top: 70px;
+}
+
+.address {
+  max-width: 100%;
+  margin: 0px auto;
+  display: inline-flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.address-box {
+  width: 300px;
+  height: auto;
+  opacity: 1;
+  background-color: black;
+  padding: 5px 5px;
+  margin: 15px 20px;
+}
+
+/* footer Section */
+
+.contact {
+  min-height: 200px;
   display: block;
   justify-content: center;
   align-items: center;
 }
 
-#location-h2 {
-  width: 100%;
-  padding-top: 70px;
-}
-
-.address {
-  max-width: 1200px;
-  margin: 0px auto;
-  justify-content: center;
-  align-items: center;
-  display: inline-flex;
-}
-
-.address-box {
-  min-width: 300px;
-  opacity: 0.8;
-  background-color: black;
-  margin: 15px 20px;
+#footer {
+  padding-left: 20px;
+  text-align: left;
 }
