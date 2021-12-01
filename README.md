@@ -38,7 +38,7 @@ A nodes.js console app that generates random advices to follow for the week.
 
 ## Screenshots
 
-![Example screenshot](./img/screenshot.jpg)
+![Example screenshot](./screenshot.jpg)
 
 ## Setup
 
