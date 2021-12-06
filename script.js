@@ -47,5 +47,6 @@ const coupleFriendFamily = {
 //return coupleFriendFamily.friendships();
 //return coupleFriendFamily.significantOthers();
 //return coupleFriendFamily.families();
+//testing if file is still connected to github
 
 return coupleFriendFamily.output();
